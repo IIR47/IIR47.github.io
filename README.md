@@ -17,7 +17,7 @@ I imagined my fish hanging on the wall of my bedroom in darkness, like the deep 
 ![Alt](IMG_6082.HEIC)
 ![Alt](IMG_6069.mov)
 ![Alt](IMG_6078.MOV)
-Hello
+
 
 <br/>
 <br/>
