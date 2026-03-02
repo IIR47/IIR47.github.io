@@ -1,7 +1,8 @@
 # Generative Art
 Generative art on ESP32 with TT-GO display
 <br/>
-![Youtube Video of ESP32](https://youtube.com/shorts/71GFGXblDFI)
+[![Youtube Video of ESP32]([https://img.youtube.com](https://youtube.com/shorts/71GFGXblDFI))]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtube.com/shorts/71GFGXblDFI))
+
 ![IMG_6417](https://github.com/user-attachments/assets/15e0e671-6b25-4d3d-b3e6-3949204b08d9)
 
 
