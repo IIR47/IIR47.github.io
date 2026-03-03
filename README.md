@@ -1,14 +1,19 @@
 # Generative Art
 Generative art on ESP32 with TT-GO display
 <br/>
-[![Youtube Video of ESP32](https://img.youtube.com/vi/71GFGXblDFI/0.jpg)](https://youtube.com/shorts/71GFGXblDFI)
-
+<br/>
+![IMG_6381](https://github.com/user-attachments/assets/2db00225-f93c-4621-81a7-ef0a973bee1b)
+<br/>
 
 ![IMG_6417](https://github.com/user-attachments/assets/15e0e671-6b25-4d3d-b3e6-3949204b08d9)
 
 My project randomly chunks the words of a sentence and displays them with random timing, creating different phrasing and emphasis on the sentence every time. 
 I wanted my screen to be readable so I used two hanging attachment points so that someone could just stand watching the sentence over and over.
 I wanted the display itself to look simple to put emphasis on just the sentence. I didn't want to visually distract the viewer from the words going through their head.
+
+<br/>
+<br/>
+[![Youtube Video of ESP32](https://img.youtube.com/vi/71GFGXblDFI/0.jpg)](https://youtube.com/shorts/71GFGXblDFI)
 
 
 
