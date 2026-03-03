@@ -5,12 +5,14 @@ Generative art on ESP32 with TT-GO display
 <img width="387" height="568" alt="Screenshot 2026-03-02 at 8 47 59 PM" src="https://github.com/user-attachments/assets/d92b27f1-a93c-4087-be89-437fae7b3012" />
 <br/>
 
+My piece displays a simple sentence over and over again: “Once upon a time I walked into the forest and saw the tiny people”. This sentence was the first thing that came to my head and I started with it for the purposes of testing my code. I decided to stay with the sentence once I felt that it had become too linked to my project already. I think this decision also reinforces the principle of my piece that the focus is not the content of the sentence but the manner in which it is emitted.
+<br/>
 
 ![IMG_6417](https://github.com/user-attachments/assets/15e0e671-6b25-4d3d-b3e6-3949204b08d9)
 
-My project randomly chunks the words of a sentence and displays them with random timing, creating different phrasing and emphasis on the sentence every time. 
-I wanted my screen to be readable so I used two hanging attachment points so that someone could just stand watching the sentence over and over.
-I wanted the display itself to look simple to put emphasis on just the sentence. I didn't want to visually distract the viewer from the words going through their head.
+My first decision was that I wanted to tell a story, imagining a viewer absorbed in the tiny hanging screen, waiting for the story to unfold. Then the concept came immediately from that idea. 
+My piece randomly chunks the words of a sentence and displays them for random intervals of time, adjusting the size of the words to fit the screen. This creates novel emphasis and phrasing that changes the interpretation of the sentence every time. Because the emphasis is on the storytelling, I wanted the display itself to look simple on principle. I also don’t want to visually distract the viewer from the transmission of the words being voiced through their head as they are printed.
+I used two hanging attachment points to limit spinning so my screen could be as readable as possible.
 
 <br/>
 <br/>
