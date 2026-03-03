@@ -2,7 +2,6 @@
 Generative art on ESP32 with TT-GO display
 <br/>
 <br/>
-![IMG_6381](https://github.com/user-attachments/assets/2db00225-f93c-4621-81a7-ef0a973bee1b)
 <img width="387" height="568" alt="Screenshot 2026-03-02 at 8 47 59 PM" src="https://github.com/user-attachments/assets/d92b27f1-a93c-4087-be89-437fae7b3012" />
 <br/>
 
@@ -16,7 +15,7 @@ I wanted the display itself to look simple to put emphasis on just the sentence.
 <br/>
 <br/>
 [![Youtube Video of ESP32](https://img.youtube.com/vi/71GFGXblDFI/0.jpg)](https://youtube.com/shorts/71GFGXblDFI)
-
+Click to see a video of the art.
 
 
 <br/>
