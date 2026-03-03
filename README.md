@@ -16,8 +16,10 @@ I used two hanging attachment points to limit spinning so my screen could be as 
 
 <br/>
 <br/>
+Click to see the art play through!
+<br/>
 [![Youtube Video of ESP32](https://img.youtube.com/vi/71GFGXblDFI/0.jpg)](https://youtube.com/shorts/71GFGXblDFI)
-Click to see a video of the art.
+
 
 
 <br/>
