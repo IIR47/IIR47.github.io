@@ -3,7 +3,9 @@ Generative art on ESP32 with TT-GO display
 <br/>
 <br/>
 ![IMG_6381](https://github.com/user-attachments/assets/2db00225-f93c-4621-81a7-ef0a973bee1b)
+<img width="387" height="568" alt="Screenshot 2026-03-02 at 8 47 59 PM" src="https://github.com/user-attachments/assets/d92b27f1-a93c-4087-be89-437fae7b3012" />
 <br/>
+
 
 ![IMG_6417](https://github.com/user-attachments/assets/15e0e671-6b25-4d3d-b3e6-3949204b08d9)
 
