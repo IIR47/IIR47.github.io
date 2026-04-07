@@ -15,7 +15,9 @@ I imagined a deeply focused use of my device as someone tries to make a song or 
 I made the choice to fully embed my ESP32 in the box to make it as clean and engaging as possible. Because of the cord that has to plug into the ESP32 I made a narrow channel for it to reach the port. I considered just putting the screen all the way on the right side but I really wanted the most optimal user experience and also an optimal design. 
 <br/> <br/>
 I originally wanted to make the big sensing pad a slider that translated position to a note, but switched to this version when that didn’t work. Other issues I had were with getting the ESP32 into the breadboard and then also with bad connections between the breadboard and the wires, so I scrapped the breadboard and just soldered the wires to the pins of the ESP32.
+<br/> <br/>
 
+Click to see the instrument in action.
 [![Youtube Video of Instrument](https://img.youtube.com/vi/QYrwQYjKp5g/0.jpg)](https://www.youtube.com/watch?v=QYrwQYjKp5g)
 https://youtu.be/QYrwQYjKp5g
 https://www.youtube.com/watch?v=QYrwQYjKp5g
