@@ -17,9 +17,10 @@ I made the choice to fully embed my ESP32 in the box to make it as clean and eng
 ![IMG_8047](https://github.com/user-attachments/assets/b00a92f6-81fd-4173-b073-c2f03700cf20)
 
 I originally wanted to make the big sensing pad a slider that translated position to a note, but switched to this version when that didn’t work. Other issues I had were with getting the ESP32 into the breadboard and then also with bad connections between the breadboard and the wires, so I scrapped the breadboard and just soldered the wires to the pins of the ESP32.
-<br/> <br/>
+<br/>
 
 Click to see the instrument in action.
+<br/>
 [![Youtube Video of Instrument](https://img.youtube.com/vi/QYrwQYjKp5g/0.jpg)](https://www.youtube.com/watch?v=QYrwQYjKp5g)
 
 
