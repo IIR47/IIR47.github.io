@@ -1,3 +1,12 @@
+# Interactive Instrument
+
+My device is an instrument that allows you to create and save music note by note. 
+
+
+
+<br/>
+<br/>
+
 # Generative Art
 Generative art on ESP32 with TT-GO display
 <br/>
