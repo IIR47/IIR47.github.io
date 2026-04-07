@@ -1,15 +1,16 @@
 # Interactive Instrument
-
+<br/>
+<br/>
 My device is an instrument that allows you to create and save music note by note. As you press the big copper pad, the computer outputs notes steadily increasing in pitch. You can stop at any point and save the current note, adding it to a sequence that you can then play back and erase.
-
+<br/>
 I expanded upon the idea of a simple note output and wanted to be able to save notes and create something with my device. I also wanted to make the instrument a bit of a fun challenge by using the sensor to try to achieve the desired note. 
-
+<br/>
 My second mode is even more of a game. This mode plays a random note and the user has to use the same big copper pad to try to match the note. When they submit the note the screen tells them how many hertz off they were. 
-
+<br/>
 I imagined a deeply focused use of my device as someone tries to make a song or match a pitch, so I made my device a tabletop shape. I wanted big usable buttons, especially for the most important one, the note sensor, and I made different button shapes to make the use as intuitive as possible.
-
+<br/>
 I made the choice to fully embed my ESP32 in the box to make it as clean and engaging as possible. Because of the cord that has to plug into the ESP32 I made a narrow channel for it to reach the port. I considered just putting the screen all the way on the right side but I really wanted the most optimal user experience and also an optimal design. 
-
+<br/>
 I originally wanted to make the big sensing pad a slider that translated position to a note, but switched to this version when that didn’t work. Other issues I had were with getting the ESP32 into the breadboard and then also with bad connections between the breadboard and the wires, so I scrapped the breadboard and just soldered the wires to the pins of the ESP32.
 
 
