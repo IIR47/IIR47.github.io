@@ -21,6 +21,7 @@ I originally wanted to make the big sensing pad a slider that translated positio
 
 Click to see the instrument in action.
 <br/>
+<br/>
 [![Youtube Video of Instrument](https://img.youtube.com/vi/QYrwQYjKp5g/0.jpg)](https://www.youtube.com/watch?v=QYrwQYjKp5g)
 
 
