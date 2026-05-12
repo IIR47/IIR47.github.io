@@ -29,7 +29,7 @@ Click to see the instrument in action.
 [![Youtube Video of Instrument](https://img.youtube.com/vi/QYrwQYjKp5g/0.jpg)](https://www.youtube.com/watch?v=QYrwQYjKp5g)
 <br/> <br/>
 Pitch decrease and Harmony features:
-<br/>
+<br/> <br/>
 [![Youtube Video of Addition to Instrument](https://img.youtube.com/vi/8EkW3XCnN2M/0.jpg)](https://www.youtube.com/watch?v=8EkW3XCnN2M)
 
 
