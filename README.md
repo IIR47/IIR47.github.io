@@ -17,9 +17,9 @@ I made the choice to fully embed my ESP32 in the box to make it as clean and eng
 ![IMG_8047](https://github.com/user-attachments/assets/b00a92f6-81fd-4173-b073-c2f03700cf20)
 
 I originally wanted to make the big sensing pad a slider that translated position to a note, but switched to this version when that didn’t work. Other issues I had were with getting the ESP32 into the breadboard and then also with bad connections between the breadboard and the wires, so I scrapped the breadboard and just soldered the wires to the pins of the ESP32.
-<br/>
+<br/> <br/>
 My most recent expansion upon this project makes it easier for a user to achieve the note they want by allowing them to decrease in pitch as well so they can refine their notes instead of going all the way around the spectrum of notes. I implemented this functionality such that the user just has to double tap the mode-switch button to switch between decreasing and increasing pitch. 
-<br/>
+<br/> <br/>
 Another feature I added is the ability to save a second melody completely separate from the first, that cna be separately deleted and played back. The two melodies can also be played back at the same time, with the idea that the user would create a harmony between them.
 
 <br/>
@@ -27,7 +27,7 @@ Click to see the instrument in action.
 <br/>
 <br/>
 [![Youtube Video of Instrument](https://img.youtube.com/vi/QYrwQYjKp5g/0.jpg)](https://www.youtube.com/watch?v=QYrwQYjKp5g)
-<br/>
+<br/> <br/>
 Pitch decrease and Harmony features:
 [![Youtube Video of Addition to Instrument](https://img.youtube.com/vi/8EkW3XCnN2M/0.jpg)](https://www.youtube.com/watch?v=8EkW3XCnN2M)
 
