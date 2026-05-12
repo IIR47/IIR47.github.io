@@ -23,7 +23,7 @@ Click to see the instrument in action.
 <br/>
 <br/>
 [![Youtube Video of Instrument](https://img.youtube.com/vi/QYrwQYjKp5g/0.jpg)](https://www.youtube.com/watch?v=QYrwQYjKp5g)
-
+[![Youtube Video of Addition to Instrument](https://www.youtube.com/watch?v=8EkW3XCnN2M)
 
 
 <br/>
